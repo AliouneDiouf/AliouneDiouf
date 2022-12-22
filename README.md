@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AliouneDiouf
+- - 🌱 Je suis actuellement PhD en ROBOTIQUE
 - 👀 I’m interested in general on Robotics , electronics, Machine Learning, Technology on health systems,...
-- 🌱 Je suis actuellement Phd en ROBOTIQUE
 - 📫 Commentez-moi joindre : dioufycorporation@gmail.com / badaradiouf101@gmail.com
 
 <!---
